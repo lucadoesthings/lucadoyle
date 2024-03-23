@@ -1,7 +1,12 @@
 ## Firstly, hi, I'm Luca, and this is my thing.
 Here you'll find half-assed projects and forks that haven't had a single commit.
 Seriously, I do a lot of web development. I enjoy doing it at the moment.
-I don't want it to become my only thing, though!
+I don't want it to become my only thing, though! Making some desktop apps will be fun! But what would I make? That leads me onto this...
+
+## Choosing stuff to make
+I'll keep it short. There's always apps that do the exact same thing. It's hard, because it feels like everyone's already taken all the good ideas for stuff!
+This is why I make Fall Guys things. Fall Guys is kinda niche nowadays, and what's even more niche is making websites for it.
+It's like my sort of fan art. I can't draw myself, so why not do something else that's creative instead...
 
 ## As for languages...
 You see, I have a habit for learning the very basics of a programming language then just making a project.
